@@ -4,4 +4,4 @@ This is simple website project for showing how to use git and github together.Ad
 
 ## Purpose
 
-Sample website with plenty of files for demos good example.
+Sample website with plenty of files for demos.
